@@ -6,30 +6,30 @@
 
 # Participantes
 <img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/d92ed285-f3bf-4118-b5a0-dfd89fddfd5b" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/2b3f1c40-f732-419a-875d-3ea8e5a46fad" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/dd57077c-ffb3-4ebf-a240-8d77c036517d" width="140" height="220"><img src="https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/4018c40c-0874-45e5-a3a3-21a7dd28e1f9" width="140" height="220"><br>
-|**Julia Alice Leão [@juliaaliceleao](https://github.com/juliaaliceleao)**              | <br>         
-|**Anny Caroline A. Marcelino [@annyACAM](https://github.com/annyACAM)**           | <br>  
+
+|**Julia Alice Leão [@juliaaliceleao](https://github.com/juliaaliceleao)**        | <br>         
+|**Anny Caroline A. Marcelino [@annyACAM](https://github.com/annyACAM)**          | <br>  
 |**Bernardo de O. Silva [@Bernardo-O-Silva](https://github.com/Bernardo-O-Silva)**| <br>
-|**Vitória Ellen Honório [@vitoriaEHon](https://github.com/vitoriaEHon)**               | <br>
+|**Vitória Ellen Honório [@vitoriaEHon](https://github.com/vitoriaEHon)**         | <br>
 
 # Descrição do jogo
-
 ## Estilo do Jogo
 - RPG e Plataforma
 - Educativo
 - Pixel Art
-- Objetivo: Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela, pula sobre obstáculos, derrota inimigos e coleta pergaminhos que contém histórias de personagens folcloricos
+- Objetivo: Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela, pula sobre obstáculos, derrota inimigos(pulando em cima deles e tem que coletar pergaminhos que contém histórias folclóricas.
   
 ## História
 Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica, em busca de salvar Preciosa e proteger tanto raízes culturais quanto o lugar em que vive, neste desafio, Iara parte em busca dos preciosos pergaminhos, que encapsulam as memórias do folclore. Esses pergaminhos, agora ameaçados pelo avarento minerador Pedro Jurupari, são o vínculo vital entre o passado e o futuro da comunidade.
 
-Ao longo do jogo, os jogadores exploram cenários inspirados na Amazônia, encontrando criaturas folclóricas como o Curupira e o Saci, descobre histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira.
+Ao longo do jogo, os jogadores exploram cenários inspirados na Amazônia e descobre histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira.
 
 ## Importância
 A importância educativa do jogo é notável. Ao interagir com personagens e objetos do folclore, os jogadores aprendem sobre mitos, lendas e tradições, o que enriquece seu conhecimento cultural. Além disso, o jogo estimula a pesquisa e o interesse pelo próprio folclore, incentivando os jogadores a explorar mais profundamente a rica herança cultural do Brasil.
 
 A preservação das culturas e tradições é uma lição subjacente no jogo. Ao vivenciar as histórias e desafios enfrentados por Iara, os jogadores compreendem a importância de manter vivas as histórias passadas de geração em geração. O jogo destaca como as tradições folclóricas são parte fundamental da identidade de um povo e como a preservação cultural é vital para não perdermos conexões com nossas raízes. 
 
-# Objetivo Vital
+# Objetivo Vital: Raízes Culturais
 A busca de Iara pelos pergaminhos encapsula a importância de proteger nossas raízes culturais. Ao preservar as memórias do folclore, ela reafirma que nossa identidade está intrinsecamente ligada à herança que compartilhamos. Essa lição profunda nos recorda que preservar a tradição é honrar nosso passado enquanto construímos nosso futuro.
 
 ## Proteja Suas Raízes
@@ -37,11 +37,9 @@ Nesse caminho cheio de obstáculos, Iara é impulsionada pelo desejo de proteger
 
 Iara não apenas oferece uma experiência envolvente de jogo, mas também atua como uma ferramenta educativa para promover o folclore e a conscientização sobre a importância da preservação das culturas e tradições.
 
-Relatório Figma: https://www.figma.com/file/b7d6vXyqqsisY2mMrkaPrV/Untitled?type=whiteboard&node-id=0-1&t=UVVQ4iGa7z9DoRIq-0
-
  <br>
 
-# Menu Acessível: TalkBack e Daltonismo Áudio Bilateral
+# Acessibilidade: TalkBack e Daltonismo Áudio Bilateral
 <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
 
 ## Configurações
