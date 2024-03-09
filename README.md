@@ -53,16 +53,19 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 # Jogo
 ## Personagens:
   ### Iara
-   - Sobre: Iara é a personagem central do jogo, retratada como uma jovem corajosa e determinada, sua coragem é o que mais qualifica pra missão de guardiã das tradições, reside no Vale das preciosas e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
+   - Sobre: Iara é a personagem central do jogo, retratada como uma jovem-criança corajosa e determinada que vive no Vale da Preciosa. Sua coragem é o que mais qualifica pra missão de guardiã das tradições, já que ela entra nesse embate de derrotar o vilão do Jurupari sem nenhum tipo de poder ou força além da esperada. Ela reside no Vale da Preciosa e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
    - Valores: coragem, curiosidade e compromisso com a preservação das tradições.
    - Personalidade: caracterizada pela sua empatia e desejo de proteger seu povo.
-   - Imagem:
+   - ![CENA-INICIO-EMPODERADA](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/3abca559-d11e-4414-8c2b-b4e0a14439ff)
+   - Imagem Iara com poder após coletar todos os pergaminhos:![iara-poder](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c9f24ccf-e4ba-46d0-b302-f022efdccd4a)
+
   ### Pedro Jurupari
    - Sobre: Pedro Jurupari, um vilão moldado pela ganância implacável e a manipulação sinistra, busca o poder por meio de todas as riquezas que o Vale da preciosa esconde. Sua personificação ardilosa e determinação inabalável lançam uma sombra ameaçadora.
    - Valores: Inescrupuloso,Manipulador Habilidoso, Ganância Implacável, Orgulhoso.
    - Personalidade: orgulho arrogante e uma solidão enraizada.
    - Imagem:
-     
+     ![CENA-JURUPARI-CERTA-LE-NAO](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/4e471091-86ad-43bc-8f8e-b8cb60a60909)
+
 # Desenvolvimento 
 - Figma: com a primeira versão da história:
   
