@@ -56,11 +56,16 @@ Importante: após a data do vídeo o menu se encontra atualizado.
    - Sobre: Iara é a personagem central do jogo, retratada como uma jovem corajosa e determinada, sua coragem é o que mais qualifica pra missão de guardiã das tradições, reside no Vale das preciosas e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
    - Valores: coragem, curiosidade e compromisso com a preservação das tradições.
    - Personalidade: caracterizada pela sua empatia e desejo de proteger seu povo.
+   - Imagem:
   ### Pedro Jurupari
    - Sobre: Pedro Jurupari, um vilão moldado pela ganância implacável e a manipulação sinistra, busca o poder por meio de todas as riquezas que o Vale da preciosa esconde. Sua personificação ardilosa e determinação inabalável lançam uma sombra ameaçadora.
    - Valores: Inescrupuloso,Manipulador Habilidoso, Ganância Implacável, Orgulhoso.
    - Personalidade: orgulho arrogante e uma solidão enraizada.
-
+   - Imagem:
+     
+# Desenvolvimento 
+- Figma: com a primeira versão da história:
+  
  ## Cenas 
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/firstImage.png" width="1280">
  <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/blob/main/Parte%203%20-%20Evoluindo%20o%20Jogo/imagensJogo/obstaculoImage.png" width="1280">
