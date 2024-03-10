@@ -24,26 +24,27 @@
 ![flor](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5df7448f-7a2f-4fb3-a727-e1fa6995383d)
 
 # Descrição do jogo
-## Estilo do Jogo
-- RPG e Plataforma
-- Educativo
-- Pixel Art
-- Objetivo: Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela, pula sobre obstáculos, derrota os monstros do minério, pulando em cima deles, o objetivo de fase é coletar todos os pergaminhos que contém histórias folclóricas.
+   - Estilo do Jogo:
+        RPG e Plataforma
+        Educativo
+        Pixel Art
+   - Objetivo:
+        Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela pula sobre obstáculos e derrota os monstros do minério(inimigos). O objetivo de cada fase é coletar todas as poções que contém também histórias folcloricas.
   
 ## História
-Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica, em busca de salvar Preciosa e proteger tanto raízes culturais quanto o lugar em que vive, neste desafio, Iara parte em busca dos preciosos pergaminhos, que encapsulam as memórias do folclore. Esses pergaminhos, agora ameaçados pelo avarento minerador Pedro Jurupari, são o vínculo vital entre o passado e o futuro da comunidade. Iara não possui nenhum tipo de poder ou vidas extras, por isso a ideia é trata-la como uma humana, sendo frágil diante o impacto causado também pelo próprio homem em busca de poder Jurupari. Com isso a ideia é questiona-la sobre sua pretensão de continuar ou não no jogo em todo fim de fase, personificando a batalha interna que muitas vezes travamos para vencer nossos próprios demônios. A história do jogo Iara se baseia em coragem.
+Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica. Em busca de salvar Preciosa e proteger suas raízes culturais agora ameaçadas pelo avarento minerador Pedro Jurupari que deseja explorar aquela regiao, Iara parte em busca dos preciosos pergaminhos, que encapsulam as memórias, histórias do folcloricas. Esses pergaminhos,  meio incertos para Iara sobre sua real utilidade, representam o vínculo vital entre o passado e o futuro da comunidade. No inicio do game Iara atinge o título dado de guardiã do folclore, titulo poderoso dado a ela no inicio do game. Após coletar todas as pocoes a Iara teria uma conversa com a Cuca que lhe concede o poder Amarelo- Vivo ainda nao implementado no game para derrotar Jurupari.
 
-Ao longo do jogo, os jogadores exploram cenários inspirados na Amazônia e descobre histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira. 
+Iara não possui nenhum tipo de poder ou vidas extras, por isso a ideia é trata-la como uma humana, sendo frágil diante o impacto causado também pelo próprio homem em busca de poder: Jurupari. Com isso a ideia é questiona-la sobre sua pretensão de continuar ou não em certos momentos, questionando seus valores -"até onde vai sua coragem" ou "até onde ela iria pra proteger os que amam"- personificando a batalha interna que muitas vezes travamos para vencer nossos próprios demônios e incertezas. A história do jogo Iara se baseia em coragem.
+
+Ao longo do jogo, os jogadores exploram cenários inspirados na Amazônia e descobrem histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira. 
 
 # Objetivo Vital: Proteja Suas Raízes
-A busca de Iara pelos pergaminhos encapsula a importância de proteger nossas raízes culturais. Ao preservar as memórias do folclore, ela reafirma que nossa identidade está intrinsecamente ligada à herança que compartilhamos. Essa lição profunda nos recorda que preservar a tradição é honrar nosso passado enquanto construímos nosso futuro. 
+A busca de Iara pelos pergaminhos encapsula a importância de proteger nossas raízes culturais. Protegendo três princípios básicos que moldam a cultura daquela população: Sua história, seu ambiente e as pessoas que ali vivem. Ao preservar as memórias do folclore, ela reafirma que nossa identidade está intrinsecamente ligada à herança que compartilhamos. Essa lição profunda nos recorda que preservar a tradição é honrar nosso passado enquanto construímos nosso futuro. 
 
-Nesse caminho cheio de obstáculos, Iara é impulsionada pelo desejo de proteger as tradições que ela própria teme perder. Suas raízes, tão frágeis nesse momento quanto suas esperanças, se tornam o núcleo do que ela luta para preservar. Ela nos recorda que é preciso encarar nossas inseguranças para preservar o que é mais precioso para nós. Em meio a suas próprias incertezas e medos, Iara emerge como um exemplo vivo de coragem, lembrando-nos de que a verdadeira coragem reside em enfrentar nossas fragilidades. Sua luta pessoal espelha uma jornada compartilhada por todos nós, para proteger aqueles que amamos, mesmo quando nos sentimos frágeis.
-
-Iara não apenas oferece uma experiência envolvente de jogo, mas também atua como uma ferramenta educativa para promover o folclore e a conscientização sobre a importância da preservação das culturas e tradições.
+Nesse caminho cheio de obstáculos, Iara é impulsionada pelo desejo de proteger as tradições que ela própria teme perder. Suas raízes, tão frágeis nesse momento quanto suas esperanças, se tornam o núcleo do que ela luta para preservar. Ela nos recorda que é preciso encarar nossas inseguranças para preservar o que é mais precioso para nós. Em meio a suas próprias incertezas e medos, Iara emerge como um exemplo vivo de coragem, lembrando-nos de que a verdadeira coragem reside em enfrentar nossas fragilidades. Sua luta pessoal espelha uma jornada compartilhada por todos nós, para proteger aqueles que amamos, mesmo quando nos sentimos frágeis. 
 
 ## Importância
-A importância educativa do jogo é notável. Ao interagir com personagens e objetos do folclore, os jogadores aprendem sobre mitos, lendas e tradições, o que enriquece seu conhecimento cultural. Além disso, o jogo estimula a pesquisa e o interesse pelo próprio folclore, incentivando os jogadores a explorar mais profundamente a rica herança cultural do Brasil.
+Iara não apenas oferece uma experiência envolvente de jogo, mas também atua como uma ferramenta educativa para promover o folclore e a conscientização sobre a importância da preservação das culturas e tradições. Ao interagir com personagens e objetos do folclore, os jogadores aprendem sobre mitos, lendas e tradições, o que enriquece seu conhecimento cultural.
 
 A preservação das culturas e tradições é uma lição subjacente no jogo. Ao vivenciar as histórias e desafios enfrentados por Iara, os jogadores compreendem a importância de manter vivas as histórias passadas de geração em geração. O jogo destaca como as tradições folclóricas são parte fundamental da identidade de um povo e como a preservação cultural é vital para não perdermos conexões com nossas raízes. 
  <br>
@@ -59,33 +60,40 @@ Outras configurações gerais: ativar ou desativar a música de fundo e controla
 Importante: após a data do vídeo o menu se encontra atualizado.
 <br>
 
-# Personagens:
+# Assets:
   ### Iara
    - Sobre: Iara é a personagem central do jogo, retratada como uma jovem-criança corajosa e determinada que vive no Vale da Preciosa. Sua coragem é o que mais qualifica pra missão de guardiã das tradições, já que ela entra nesse embate de derrotar o vilão do Jurupari sem nenhum tipo de poder ou força além da esperada. Ela reside no Vale da Preciosa e desde bem pequena sempre teve muito carinho de toda a cultura de seu povo.
    - Valores: coragem, curiosidade e compromisso.
    - Personalidade: caracterizada pela sua empatia.
+   - Imagem:iara foto personagem, foto pose ou algo assim, cores, animações
      <div style="display: flex; justify-content: center; align-items: center; height: 300; width:600;">
-       
      ![CENA-INICIO-EMPODERADA](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/3abca559-d11e-4414-8c2b-b4e0a14439ff)
      ![iara-poder](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c9f24ccf-e4ba-46d0-b302-f022efdccd4a)
     </div>
+    
   ### Pedro Jurupari
    - Sobre: Pedro Jurupari, um vilão moldado pela ganância implacável e a manipulação sinistra, busca o poder por meio de todas as riquezas que o Vale da preciosa esconde. Sua personificação ardilosa e determinação inabalável lançam uma sombra ameaçadora.
-   - Valores: Inescrupuloso,Manipulador Habilidoso, Ganância Implacável.
+   - Valores: Inescrupuloso, manipulador, habilidoso, Ganância Implacável.
    - Personalidade: orgulho arrogante e uma solidão enraizada.
-   - Imagem:
+   - Imagem: jurupari foto personagem, foto pose ou algo assim, cores, animações
      <div style="display: flex; justify-content: center; align-items: center; height: 300; width:600;">
-       
      ![CENA-JURUPARI-CERTA-LE-NAO](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/4e471091-86ad-43bc-8f8e-b8cb60a60909)
      </div>
-# Livro
+     
+## Livro
 ![flor mistica 1](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c1e0464f-7c21-480d-989f-941b59428080)
-# Elementos Brasileiros
+- animação livro
+- historias
+- personagens folcloricos
+  
+## Elementos Brasileiros
 - Guaraná ![guarana abre](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5479bb50-f42e-4fed-9461-77450b936bac)
 - Bacurau ![bacurau](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/e6a8dc29-792d-4819-925c-943615eba3b1)
 - Espada de São Jorge ![espada de sao jorge](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b1809219-a91c-45aa-8aa8-727a6bcf0b83)
-- 
-# Desenvolvimento 
 
-- Figma: com a primeira versão da história:
+# Som
+  
+# Desenvolvimento
+- Figma (com a primeira versão da história):
+- Ideia de Roteiro de jogo completo:
 - Primeira Demo Trailer:
