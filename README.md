@@ -30,7 +30,10 @@
         Pixel Art
    - Objetivo:
         Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela pula sobre obstáculos e derrota os monstros do minério(inimigos). O objetivo de cada fase é coletar todas as poções que contém também histórias folcloricas.
-  
+  <div style="text-align:center;">
+    <img src="[https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/bdacffef-7e79-450c-a41e-af6ef5e738eb.png](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5c20cac7-6fd0-4045-936f-b6fb047c5938)" alt="telas(1)">
+  </div>
+
 ## História
 Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica. Em busca de salvar Preciosa e proteger suas raízes culturais agora ameaçadas pelo avarento minerador Pedro Jurupari que deseja explorar aquela regiao, Iara parte em busca dos preciosos pergaminhos, que encapsulam as memórias, histórias do folcloricas. Esses pergaminhos,  meio incertos para Iara sobre sua real utilidade, representam o vínculo vital entre o passado e o futuro da comunidade. No inicio do game Iara atinge o título dado de guardiã do folclore, titulo poderoso dado a ela no inicio do game. Após coletar todas as pocoes a Iara teria uma conversa com a Cuca que lhe concede o poder Amarelo- Vivo ainda nao implementado no game para derrotar Jurupari.
 
