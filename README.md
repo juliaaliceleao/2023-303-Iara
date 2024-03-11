@@ -30,8 +30,9 @@
         Pixel Art
    - Objetivo:
         Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela pula sobre obstáculos e derrota os monstros do minério(inimigos). O objetivo de cada fase é coletar todas as poções que contém também histórias folcloricas.
+     
   <div style="text-align:center;">
-    <img src="[https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/bdacffef-7e79-450c-a41e-af6ef5e738eb.png](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5c20cac7-6fd0-4045-936f-b6fb047c5938)" alt="telas(1)">
+    <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/81782a90-a3fd-4473-9f33-787e8c6e325a" alt="telas(1)">
   </div>
 
 ## História
