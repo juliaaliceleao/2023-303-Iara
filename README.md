@@ -1,8 +1,10 @@
 [**Link do projeto no Drive 🌐**]([https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing](https://drive.google.com/file/d/1CLX5Ol-Y36TvmP4RbPPfMbGgd6kx1gP-/view?usp=drive_link))
 <!--Iara-->
-<div style="display: flex; justify-content: center; align-items: center; height: 600;">
-  <img src="logo Iara.png" alt="Logo do jogo IARA" width=600" style="display: block; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; height: 600; width:600; margin: 0 auto;"> 
+  <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c889feeb-24e0-4bcc-adb8-7b2ca8403b5b" alt="flor" width="100px">
+  </div>
 </div>
+
 # Participantes
 
 | ![Julia Alice Leão](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/d92ed285-f3bf-4118-b5a0-dfd89fddfd5b) |
