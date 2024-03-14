@@ -1,4 +1,4 @@
-[**Link do projeto no Drive 🌐**]([https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing](https://drive.google.com/file/d/1CLX5Ol-Y36TvmP4RbPPfMbGgd6kx1gP-/view?usp=drive_link))
+
 <!--Iara-->
 <div style="display: flex; justify-content: center; align-items: center; height: 600; width:600; margin: 0 auto;"> 
   <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c889feeb-24e0-4bcc-adb8-7b2ca8403b5b" alt="flor">
@@ -10,8 +10,9 @@
 |:---:|:---:|:---:|:---:|
 | [Julia Alice Leão](https://github.com/juliaaliceleao) | [Anny Caroline A. Marcelino](https://github.com/annyACAM) | [Bernardo de O. Silva](https://github.com/Bernardo-O-Silva) | [Vitória Ellen Honório](https://github.com/vitoriaEHon) |
 
-
+<div style="display: flex; justify-content: center; align-items: center; height: 600; width:600; margin: 0 auto;"> 
 ![flor](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5df7448f-7a2f-4fb3-a727-e1fa6995383d)
+</div>
 
 # Descrição do jogo
    - Estilo do Jogo:
@@ -21,9 +22,7 @@
    - Objetivo:
         Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela pula sobre obstáculos e derrota os monstros do minério(inimigos). O objetivo de cada fase é coletar todas as poções que contém também histórias folcloricas.
      
-  <div style="text-align:center;">
-    <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/81782a90-a3fd-4473-9f33-787e8c6e325a" alt="telas(1)">
-  </div>
+  <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/81782a90-a3fd-4473-9f33-787e8c6e325a" alt="telas(1)">
 
 ## História
 Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica. Em busca de salvar Preciosa e proteger suas raízes culturais agora ameaçadas pelo avarento minerador Pedro Jurupari que deseja explorar aquela regiao, Iara parte em busca dos preciosos pergaminhos, que encapsulam as memórias, histórias do folcloricas. Esses pergaminhos,  meio incertos para Iara sobre sua real utilidade, representam o vínculo vital entre o passado e o futuro da comunidade. No inicio do game Iara atinge o título dado de guardiã do folclore, titulo poderoso dado a ela no inicio do game. Após coletar todas as pocoes a Iara teria uma conversa com a Cuca que lhe concede o poder Amarelo- Vivo ainda nao implementado no game para derrotar Jurupari.
@@ -86,8 +85,10 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 - Espada de São Jorge ![espada de sao jorge](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b1809219-a91c-45aa-8aa8-727a6bcf0b83)
 
 # Som
-  
+ ![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/7edc9b6b-7460-41dd-b01a-ae7f04f586d7)
+
 # Desenvolvimento
 - Figma (com a primeira versão da história):
 - Ideia de Roteiro de jogo completo:
 - Primeira Demo Trailer:
+[**Link do projeto no Drive 🌐**]([https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing](https://drive.google.com/file/d/1CLX5Ol-Y36TvmP4RbPPfMbGgd6kx1gP-/view?usp=drive_link))
