@@ -1,7 +1,7 @@
 [**Link do projeto no Drive 🌐**]([https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing](https://drive.google.com/file/d/1CLX5Ol-Y36TvmP4RbPPfMbGgd6kx1gP-/view?usp=drive_link))
 <!--Iara-->
 <div style="display: flex; justify-content: center; align-items: center; height: 600; width:600; margin: 0 auto;"> 
-  <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c889feeb-24e0-4bcc-adb8-7b2ca8403b5b" alt="flor" width="100px">
+  <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c889feeb-24e0-4bcc-adb8-7b2ca8403b5b" alt="flor">
   </div>
 </div>
 
