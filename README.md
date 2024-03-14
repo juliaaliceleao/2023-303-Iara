@@ -25,10 +25,12 @@
   <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/81782a90-a3fd-4473-9f33-787e8c6e325a" alt="telas(1)">
 
 ## História
-Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica. Em busca de salvar Preciosa e proteger suas raízes culturais agora ameaçadas pelo avarento minerador Pedro Jurupari que deseja explorar aquela regiao, Iara parte em busca dos preciosos pergaminhos, que encapsulam as memórias, histórias do folcloricas. Esses pergaminhos,  meio incertos para Iara sobre sua real utilidade, representam o vínculo vital entre o passado e o futuro da comunidade. No inicio do game Iara atinge o título dado de guardiã do folclore, titulo poderoso dado a ela no inicio do game. Após coletar todas as pocoes a Iara teria uma conversa com a Cuca que lhe concede o poder Amarelo- Vivo ainda nao implementado no game para derrotar Jurupari.
+Audio História Inicial:
+Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica. Em busca de salvar Preciosa e proteger suas raízes culturais agora ameaçadas pelo avarento minerador Pedro Jurupari que deseja explorar aquela região, Iara parte em busca dos preciosos pergaminhos, que encapsulam as memórias, histórias do folclóricas. Esses pergaminhos,  meio incertos para Iara sobre sua real utilidade, representam o vínculo vital entre o passado e o futuro da comunidade. 
 
 Iara não possui nenhum tipo de poder ou vidas extras, por isso a ideia é trata-la como uma humana, sendo frágil diante o impacto causado também pelo próprio homem em busca de poder: Jurupari. Com isso a ideia é questiona-la sobre sua pretensão de continuar ou não em certos momentos, questionando seus valores -"até onde vai sua coragem" ou "até onde ela iria pra proteger os que amam"- personificando a batalha interna que muitas vezes travamos para vencer nossos próprios demônios e incertezas. A história do jogo Iara se baseia em coragem.
 
+No inicio do game Iara atinge o título dado de guardiã do folclore, titulo poderoso dado a ela. Após coletar todas as pocoes a Iara teria uma conversa com a Cuca que lhe concede o poder Amarelo- Vivo ainda nao implementado no game para derrotar Jurupari.
 Ao longo do jogo, os jogadores exploram cenários inspirados na Amazônia e descobrem histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira. 
 
 # Objetivo Vital: Proteja Suas Raízes
@@ -83,6 +85,14 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 - Guaraná ![guarana abre](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5479bb50-f42e-4fed-9461-77450b936bac)
 - Bacurau ![bacurau](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/e6a8dc29-792d-4819-925c-943615eba3b1)
 - Espada de São Jorge ![espada de sao jorge](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b1809219-a91c-45aa-8aa8-727a6bcf0b83)
+-
+-
+<div style="display: flex; justify-content: center; gap: 20;">
+      <img src="https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/6987072f-4278-4ea8-98b0-dc265452a72d" alt="Espada de São Jorge" style="max-width: 200; max-height: 200;">
+      <img src="https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/67a0c5ec-c163-4c55-b1fb-5ffeadf7d762" alt="Bacurau" style="max-width: 200; max-height: 200;">
+      <img src="https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/442bfb09-4e42-453a-bff8-28e3d0bb9403" alt="Design sem nome" style="max-width: 200; max-height: 200;">
+</div>
+
 
 # Som
  ![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/7edc9b6b-7460-41dd-b01a-ae7f04f586d7)
