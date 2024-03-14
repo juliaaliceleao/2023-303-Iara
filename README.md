@@ -6,22 +6,10 @@
 </div>
 
 # Participantes
+| ![Julia Alice Leão](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/d92ed285-f3bf-4118-b5a0-dfd89fddfd5b) | ![Anny Caroline A. Marcelino](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/2b3f1c40-f732-419a-875d-3ea8e5a46fad) | ![Bernardo de O. Silva](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/dd57077c-ffb3-4ebf-a240-8d77c036517d) | ![Vitória Ellen Honório](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/4018c40c-0874-45e5-a3a3-21a7dd28e1f9) |
+|:---:|:---:|:---:|:---:|
+| [Julia Alice Leão](https://github.com/juliaaliceleao) | [Anny Caroline A. Marcelino](https://github.com/annyACAM) | [Bernardo de O. Silva](https://github.com/Bernardo-O-Silva) | [Vitória Ellen Honório](https://github.com/vitoriaEHon) |
 
-| ![Julia Alice Leão](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/d92ed285-f3bf-4118-b5a0-dfd89fddfd5b) |
-|:---:|
-| [Julia Alice Leão](https://github.com/juliaaliceleao) |
-
-| ![Anny Caroline A. Marcelino](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/2b3f1c40-f732-419a-875d-3ea8e5a46fad) |
-|:---:|
-| [Anny Caroline A. Marcelino](https://github.com/annyACAM) |
-
-| ![Bernardo de O. Silva](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/dd57077c-ffb3-4ebf-a240-8d77c036517d) |
-|:---:|
-| [Bernardo de O. Silva](https://github.com/Bernardo-O-Silva) |
-
-| ![Vitória Ellen Honório](https://github.com/TP-Coltec-UFMG/Iara/assets/104568516/4018c40c-0874-45e5-a3a3-21a7dd28e1f9) |
-|:---:|
-| [Vitória Ellen Honório](https://github.com/vitoriaEHon) |
 
 ![flor](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5df7448f-7a2f-4fb3-a727-e1fa6995383d)
 
