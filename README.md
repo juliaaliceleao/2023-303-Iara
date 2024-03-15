@@ -18,14 +18,14 @@
         Educativo
         Pixel Art
    - Objetivo:
-        Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela pula sobre obstáculos e derrota os monstros do minério(inimigos). O objetivo de cada fase é coletar todas as poções que contém também histórias folcloricas.
+        Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela pula sobre obstáculos e derrota os monstros do minério(inimigos). O objetivo de cada fase é coletar todas as poções folcloricas e completar o mapa.
      
   <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/81782a90-a3fd-4473-9f33-787e8c6e325a" alt="telas(1)">
 
 # História
 ![Valorizamos a riqueza das culturas dos povos originários retratados em nosso jogo  Cada elemento foi desenvolvido com sensibilidade e respeito, em parceria com especialistas indígenas, para preser](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/51637a33-aefc-4d4e-8ee8-2f444f29120b)
 
-Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica. Em busca de salvar Preciosa e proteger suas raízes culturais agora ameaçadas pelo avarento minerador Pedro Jurupari que deseja explorar aquela região, Iara parte em busca dos preciosos pergaminhos, que encapsulam as memórias, histórias do folclóricas. Esses pergaminhos,  meio incertos para Iara sobre sua real utilidade, representam o vínculo vital entre o passado e o futuro da comunidade. 
+Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica. Em busca de salvar Preciosa e proteger suas raízes culturais agora ameaçadas pelo avarento minerador Pedro Jurupari  que deseja explorar aquela região e seus monstros do minério, Iara parte em busca das poções e preciosos pergaminhos, que encapsulam as memórias e histórias do folclóricas. Esses pergaminhos,  meio incertos para Iara sobre sua real utilidade, representam o vínculo vital entre o passado e o futuro da comunidade. 
 
 Iara não possui nenhum tipo de poder ou vidas extras, por isso a ideia é trata-la como uma humana, sendo frágil diante o impacto causado também pelo próprio homem em busca de poder: Jurupari. Com isso a ideia é questiona-la sobre sua pretensão de continuar ou não em certos momentos, questionando seus valores -"até onde vai sua coragem" ou "até onde ela iria pra proteger os que amam"- personificando a batalha interna que muitas vezes travamos para vencer nossos próprios demônios e incertezas. A história do jogo Iara se baseia em coragem.
 
