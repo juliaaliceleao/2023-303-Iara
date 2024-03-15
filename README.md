@@ -53,7 +53,7 @@ A preservação das culturas e tradições é uma lição subjacente no jogo. Ao
      ![IARA CORES](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/86ac271d-a230-45a6-84be-db7d0acf71d0)
   - Animações:
     ![IARA CORRENDO - movimentação](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/89370114-854a-45d6-8193-c7a5dc8645d2)
-    ![iara-poder sem fundo](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/897d4b35-2823-46af-95cf-f2d2e475184c)
+    ![iara-poder](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/897d4b35-2823-46af-95cf-f2d2e475184c)
     ![CENA-INICIO-EMPODERADA](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/3abca559-d11e-4414-8c2b-b4e0a14439ff)
     
   ### Pedro Jurupari
@@ -65,9 +65,10 @@ A preservação das culturas e tradições é uma lição subjacente no jogo. Ao
    - Animações:
      ![IDLE-JURUPARI](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b1c11048-dec4-4d55-89df-ab9abf7d8421)
      ![ARMA-JURUPARI](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/f088c121-9445-424e-a1e8-d6a43bf0d11e)
-     ![CENA-JURUPARI-CERTA-LE-NAO](https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/4e471091-86ad-43bc-8f8e-b8cb60a60909.png)
- <br>
- ![floresta-fogo](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b4283b42-8219-46b6-af2b-0c7221ea4384)
+
+### Cenas 
+![Jurupari](https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/4e471091-86ad-43bc-8f8e-b8cb60a60909.png)
+![fqueimada na Floresra](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b4283b42-8219-46b6-af2b-0c7221ea4384)
 ![arvores-cortadas](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/15010e65-4c88-44f1-97d3-4d942c5d559d)
 
 
