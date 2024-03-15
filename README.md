@@ -30,7 +30,6 @@ Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O j
 Iara não possui nenhum tipo de poder ou vidas extras, por isso a ideia é trata-la como uma humana, sendo frágil diante o impacto causado também pelo próprio homem em busca de poder: Jurupari. Com isso a ideia é questiona-la sobre sua pretensão de continuar ou não em certos momentos, questionando seus valores -"até onde vai sua coragem" ou "até onde ela iria pra proteger os que amam"- personificando a batalha interna que muitas vezes travamos para vencer nossos próprios demônios e incertezas. A história do jogo Iara se baseia em coragem.
 
 Ao longo do jogo, os jogadores exploram cenários inspirados na Amazônia e descobrem histórias e tradições populares. Através de uma narrativa cativante, o jogo mergulha os jogadores nas ricas histórias da cultura brasileira. 
- ![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/7edc9b6b-7460-41dd-b01a-ae7f04f586d7)
 
 # Objetivo Vital: Proteja Suas Raízes
 A busca de Iara pelos pergaminhos encapsula a importância de proteger nossas raízes culturais. Protegendo três princípios básicos que moldam a cultura daquela população: Sua história, seu ambiente e as pessoas que ali vivem. Ao preservar as memórias do folclore, ela reafirma que nossa identidade está intrinsecamente ligada à herança que compartilhamos. Essa lição profunda nos recorda que preservar a tradição é honrar nosso passado enquanto construímos nosso futuro. 
@@ -96,11 +95,26 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 # Referencias
 ## Música:
 ## Arte:
+![Design sem nome(4)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/485dc2e4-ab71-4325-a021-a94803ab28c1)
+![Design sem nome(3)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/0360dfc4-88c3-4b1a-bd34-3781dddb0015)
+
 ## Jogos:
   ![#0d1117](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/4b362d1a-a7ed-4dd9-8721-61d72307672f)
 
-# Desenvolvimento
+# Som 
+- Ficha Técnica: Desenvolvimento de Som 
+1. Planejamento e Conceituação:
+   Na visão geral no som do jogo Iara deveriamos ter elementos tanto da regiao Vale da Preciosa na Amazonia(Lugar onde o jogo se passa), quanto sons de identificação da população ficticia do jogo. Além de sons que caracterizariam movimento dos personagens, sentimentos da cena com uma pitada de regionalidade brasileira. Por exemplo, cenas de tensão com elementos musicais brasileiros ou amazonicos, sons de passaros da região. Isso se torna ainda mais importante em Iara por ser um jogo cultural, que representa um lugar e uma cultura em específico e por ser um jogo baseado na ficção, com uma população ficcionada.
+   
+3. Elementos sonoros Usados - atmosfera sonora desejada.
+   Berimbau - Usado no trailer para caracterizar a tensão do jogo, principalmente momentos de destaque do vilão Jurupari.
+   Flauta  - Utilizada para dar sensação de magia e cultura para o Vale da Preciosa.
+   Sons de pássaros(geral) - Utilizado para caracterizar o ambiente florestal em que se passa o jogo.
+   Sons de queimada - Para representar a cena do trailer onde a floresta pega fogo.
+4. Referencias
+   ![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/7edc9b6b-7460-41dd-b01a-ae7f04f586d7)
+
+# Aquivos
 - Figma (com a primeira versão da história):
-- Ideia de Roteiro de jogo completo:
-- Primeira Demo Trailer:
-[**Link do projeto no Drive 🌐**]([https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing](https://drive.google.com/file/d/1CLX5Ol-Y36TvmP4RbPPfMbGgd6kx1gP-/view?usp=drive_link))
+- Ideia de Roteiro de jogo completo: Em andamento
+[**Link do projeto e arquivos 🌐**]([https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing](https://drive.google.com/file/d/1CLX5Ol-Y36TvmP4RbPPfMbGgd6kx1gP-/view?usp=drive_link))
