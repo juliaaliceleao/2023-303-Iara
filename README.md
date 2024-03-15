@@ -25,11 +25,10 @@
 </div>
 
 # História
+
 ![Valorizamos a riqueza das culturas dos povos originários retratados em nosso jogo  Cada elemento foi desenvolvido com sensibilidade e respeito, em parceria com especialistas indígenas, para preser](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/51637a33-aefc-4d4e-8ee8-2f444f29120b)
 
-
-
-https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/d0cbe9a5-7457-4d5d-bb12-fcb0bbaad20f
+![Audio da História Inicial](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/d0cbe9a5-7457-4d5d-bb12-fcb0bbaad20f)
 
 Iara é um educativo jogo de plataforma baseado no rico folclore brasileiro. O jogo segue a jornada da personagem principal, Iara, que vive em uma pequena comunidade ribeirinha do Vale da Preciosa, na região Amazonica. Em busca de salvar Preciosa e proteger suas raízes culturais agora ameaçadas pelo avarento minerador Pedro Jurupari  que deseja explorar aquela região e seus monstros do minério, Iara parte em busca das poções e preciosos pergaminhos, que encapsulam as memórias e histórias do folclóricas. Esses pergaminhos,  meio incertos para Iara sobre sua real utilidade, representam o vínculo vital entre o passado e o futuro da comunidade. 
 
