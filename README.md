@@ -81,12 +81,9 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 - historias
 - personagens folcloricos
   
-## Elementos Brasileiros
-- Guaraná ![guarana abre](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5479bb50-f42e-4fed-9461-77450b936bac)
-- Bacurau ![bacurau](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/e6a8dc29-792d-4819-925c-943615eba3b1)
-- Espada de São Jorge ![espada de sao jorge](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b1809219-a91c-45aa-8aa8-727a6bcf0b83)
--
--
+## Elementos Brasileiros)
+-![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5ab2b406-afa1-41f7-bc62-e5eaa4067ac3)
+![#0d1216(2)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/a7499f87-c03b-4619-acf2-be8cce965138)
 <div style="display: flex; justify-content: center; gap: 20;">
       <img src="https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/6987072f-4278-4ea8-98b0-dc265452a72d" alt="Espada de São Jorge" style="max-width: 200; max-height: 200;">
       <img src="https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/67a0c5ec-c163-4c55-b1fb-5ffeadf7d762" alt="Bacurau" style="max-width: 200; max-height: 200;">
