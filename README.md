@@ -101,7 +101,7 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 # Referencias
 ## Música:
 Peixe Vivo - Cover Milton Nascimento
-
+![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/7edc9b6b-7460-41dd-b01a-ae7f04f586d7)
 ## Arte:
 ![Design sem nome(4)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/485dc2e4-ab71-4325-a021-a94803ab28c1)
 ![Design sem nome(3)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/0360dfc4-88c3-4b1a-bd34-3781dddb0015)
@@ -119,10 +119,10 @@ Peixe Vivo - Cover Milton Nascimento
    Flauta  - Utilizada para dar sensação de magia e cultura para o Vale da Preciosa.
    Sons de pássaros(geral) - Utilizado para caracterizar o ambiente florestal em que se passa o jogo.
    Sons de queimada - Para representar a cena do trailer onde a floresta pega fogo.
-4. Referencias
-   ![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/7edc9b6b-7460-41dd-b01a-ae7f04f586d7)
+   
+![Design sem nome(2)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/84626545-97de-4752-8248-5c3be9f336fd)
 
 # Aquivos
-- Figma (com a primeira versão da história):
+[**Figma(com a primeira versão da história)**](https://www.figma.com/file/b7d6vXyqqsisY2mMrkaPrV/Untitled?type=whiteboard&node-id=0-1&t=UVVQ4iGa7z9DoRIq-0)
 - Ideia de Roteiro de jogo completo: Em andamento
 [**Link do projeto e arquivos 🌐**]([https://drive.google.com/file/d/1YKbeuuyjL5ypSEyT7LMwtcWfIwKuqEyj/view?usp=sharing](https://drive.google.com/file/d/1CLX5Ol-Y36TvmP4RbPPfMbGgd6kx1gP-/view?usp=drive_link))
