@@ -78,8 +78,7 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 ## Livro
 ![flor mistica 1](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c1e0464f-7c21-480d-989f-941b59428080)
 ![#0d1216(3)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/d94710e2-9902-42b2-828c-4b6f7734994d)
-- historias![telas(4)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/78023cd3-4361-400d-bf4e-a449fad8da28)
-
+- [Todas as Hitórias](https://github.com/juliaaliceleao/2023-303-Iara/files/14609365/telas-1.pdf)
 
 - personagens folcloricos
   
