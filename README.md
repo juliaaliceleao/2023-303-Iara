@@ -95,6 +95,8 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 
 # Referencias
 ## Música:
+Peixe Vivo - Cover Milton Nascimento
+
 ## Arte:
 ![Design sem nome(4)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/485dc2e4-ab71-4325-a021-a94803ab28c1)
 ![Design sem nome(3)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/0360dfc4-88c3-4b1a-bd34-3781dddb0015)
