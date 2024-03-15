@@ -19,6 +19,8 @@
         Pixel Art
    - Objetivo:
         Nesse estilo de jogo, os jogadores controlam a personagem principal, Iara, enquanto ela pula sobre obstáculos e derrota os monstros do minério(inimigos). O objetivo de cada fase é coletar todas as poções folcloricas e completar o mapa.
+   - Imagem:
+      ![Design sem nome(2)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/84626545-97de-4752-8248-5c3be9f336fd)
 
 <div style="display: flex; justify-content: center; align-items: center; height: 600; width:600; margin: 0 auto;"> 
   <img src="https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/81782a90-a3fd-4473-9f33-787e8c6e325a" alt="telas(1)">
@@ -58,7 +60,7 @@ A preservação das culturas e tradições é uma lição subjacente no jogo. Ao
      ![IARA CORES](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/86ac271d-a230-45a6-84be-db7d0acf71d0)
   - Animações:
     ![IARA CORRENDO - movimentação](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/89370114-854a-45d6-8193-c7a5dc8645d2)
-    ![iara-poder](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/897d4b35-2823-46af-95cf-f2d2e475184c)
+    ![iara-poder](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/08877c7d-0faf-49c5-9e10-c3989e6fc05e)
     ![CENA-INICIO-EMPODERADA](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/3abca559-d11e-4414-8c2b-b4e0a14439ff)
     
   ### Pedro Jurupari
@@ -70,10 +72,11 @@ A preservação das culturas e tradições é uma lição subjacente no jogo. Ao
    - Animações:
      ![IDLE-JURUPARI](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b1c11048-dec4-4d55-89df-ab9abf7d8421)
      ![ARMA-JURUPARI](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/f088c121-9445-424e-a1e8-d6a43bf0d11e)
-### Monstro do Minério
-Design de Personagem:
+     
+  ### Monstro do Minério
+   - Design de Personagem:
   ![CORES-MONSTRO DA LAMA](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/06843dc9-fe5d-47a3-af1a-d354e38d1546)]
-- Animação:
+   - Animação:
   ![MOSTRO-REDIMENSIONADO](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/d68eda5e-b800-4bc4-bd80-a118fb1ceda7)
 
 ### Cenas 
@@ -106,6 +109,8 @@ Importante: após a data do vídeo o menu se encontra atualizado.
 ## Música:
 Peixe Vivo - Cover Milton Nascimento
 ![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/7edc9b6b-7460-41dd-b01a-ae7f04f586d7)
+![WhatsApp Image 2024-03-15 at 20 15 30](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/e7cd41eb-7450-4bbc-9d83-a8d0717e8628)
+
 ## Arte:
 ![Design sem nome(4)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/485dc2e4-ab71-4325-a021-a94803ab28c1)
 ![Design sem nome(3)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/0360dfc4-88c3-4b1a-bd34-3781dddb0015)
@@ -124,7 +129,6 @@ Peixe Vivo - Cover Milton Nascimento
    Sons de pássaros(geral) - Utilizado para caracterizar o ambiente florestal em que se passa o jogo.
    Sons de queimada - Para representar a cena do trailer onde a floresta pega fogo.
    
-![Design sem nome(2)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/84626545-97de-4752-8248-5c3be9f336fd)
 
 # Aquivos
 [**Figma(com a primeira versão da história)**](https://www.figma.com/file/b7d6vXyqqsisY2mMrkaPrV/Untitled?type=whiteboard&node-id=0-1&t=UVVQ4iGa7z9DoRIq-0)
