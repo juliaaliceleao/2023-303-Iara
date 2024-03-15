@@ -44,7 +44,7 @@ Iara não apenas oferece uma experiência envolvente de jogo, mas também atua c
 A preservação das culturas e tradições é uma lição subjacente no jogo. Ao vivenciar as histórias e desafios enfrentados por Iara, os jogadores compreendem a importância de manter vivas as histórias passadas de geração em geração. O jogo destaca como as tradições folclóricas são parte fundamental da identidade de um povo e como a preservação cultural é vital para não perdermos conexões com nossas raízes. 
  <br>
  
-# Acessibilidade: TalkBack e Daltonismo Áudio Bilateral
+# Acessibilidade: TalkBack e Áudio Bilateral
 <img align="center" src="https://github.com/TP-Coltec-UFMG/2023-303-Iara/assets/104568935/0c7ea66e-9331-4d0b-a8c3-f80af9bc2b5c">
 
 ## Configurações
@@ -77,18 +77,15 @@ Importante: após a data do vídeo o menu se encontra atualizado.
      
 ## Livro
 ![flor mistica 1](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/c1e0464f-7c21-480d-989f-941b59428080)
-- animação livro
-- historias
+![#0d1216(3)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/d94710e2-9902-42b2-828c-4b6f7734994d)
+- historias![telas(4)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/78023cd3-4361-400d-bf4e-a449fad8da28)
+
+
 - personagens folcloricos
   
-## Elementos Brasileiros)
--![#0d1216](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/5ab2b406-afa1-41f7-bc62-e5eaa4067ac3)
-![#0d1216(2)](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/a7499f87-c03b-4619-acf2-be8cce965138)
-<div style="display: flex; justify-content: center; gap: 20;">
-      <img src="https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/6987072f-4278-4ea8-98b0-dc265452a72d" alt="Espada de São Jorge" style="max-width: 200; max-height: 200;">
-      <img src="https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/67a0c5ec-c163-4c55-b1fb-5ffeadf7d762" alt="Bacurau" style="max-width: 200; max-height: 200;">
-      <img src="https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/442bfb09-4e42-453a-bff8-28e3d0bb9403" alt="Design sem nome" style="max-width: 200; max-height: 200;">
-</div>
+## Elementos Brasileiros
+![Animais](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/17d2d5a7-90b6-43fa-9747-3fbd431f4c68)
+![Plantas](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/90d4719f-8b4b-4fb0-9ca8-7c26b5377231)
 
 
 # Som
