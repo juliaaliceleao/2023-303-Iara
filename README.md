@@ -70,9 +70,13 @@ A preservação das culturas e tradições é uma lição subjacente no jogo. Ao
    - Animações:
      ![IDLE-JURUPARI](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b1c11048-dec4-4d55-89df-ab9abf7d8421)
      ![ARMA-JURUPARI](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/f088c121-9445-424e-a1e8-d6a43bf0d11e)
+### Monstro do Minério
+Design de Personagem:
+  ![CORES-MONSTRO DA LAMA](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/06843dc9-fe5d-47a3-af1a-d354e38d1546)]
+- Animação:
+  ![MOSTRO-REDIMENSIONADO](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/d68eda5e-b800-4bc4-bd80-a118fb1ceda7)
 
 ### Cenas 
-![Jurupari](https://github.com/juliaaliceleao/2023-303-Iara/raw/main/assets/104568516/4e471091-86ad-43bc-8f8e-b8cb60a60909.png)
 ![fqueimada na Floresra](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/b4283b42-8219-46b6-af2b-0c7221ea4384)
 ![arvores-cortadas](https://github.com/juliaaliceleao/2023-303-Iara/assets/104568516/15010e65-4c88-44f1-97d3-4d942c5d559d)
 
